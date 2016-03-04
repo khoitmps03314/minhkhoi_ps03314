@@ -1,0 +1,28 @@
+c:\users\khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.exe.config
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.exe
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.pdb
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.xml
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_menu.resources
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.Frm_Start.resources
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.Resources.resources
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.vbproj.GenerateResource.Cache
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.exe
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.xml
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.pdb
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_kh.resources
+C:\Users\Khoi\documents\visual studio 2013\Projects\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_sp.resources
+D:\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.exe.config
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.exe
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.xml
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.pdb
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_menu.resources
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_kh.resources
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.Frm_Start.resources
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_sp.resources
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.Resources.resources
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan mem ban hang.vbproj.GenerateResource.Cache
+D:\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.exe
+D:\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.pdb
+D:\Phan mem ban hang\Phan mem ban hang\bin\Debug\Phan mem ban hang.xml
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_dsKH.resources
+D:\Phan mem ban hang\Phan mem ban hang\obj\Debug\Phan_mem_ban_hang.frm_dssp.resources
